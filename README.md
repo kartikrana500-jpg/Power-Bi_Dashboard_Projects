@@ -1,4 +1,5 @@
- 🍕 Pizza Sales Dashboard – Power BI
+Project 1:
+🍕 Pizza Sales Dashboard – Power BI
 
  📊 Project Overview
 
@@ -116,6 +117,130 @@ The main objective of this project is to demonstrate practical skills in:
 * Data visualization
 * Business analysis
 * Dashboard development using Power BI
+
+
+Project 2:
+
+ 🚲 Bike Sales Dashboard – Power BI
+
+ 📌 Project Overview
+
+The Bike Sales Dashboard is an interactive Power BI dashboard developed to analyze bike sales performance, revenue, profitability, product categories, customer demographics, and geographical performance.
+
+The dashboard transforms raw sales data into interactive visualizations and business insights that help understand overall sales and profit performance.
+
+ 🛠️ Tools & Technologies
+
+* Microsoft Power BI
+* Power Query
+* DAX
+* Data Visualization
+* Data Analysis
+
+ 📊 Key KPIs
+
+The dashboard provides important business performance indicators including:
+
+* 💰 Total Revenue
+* 📈 Total Profit
+* 🚲 Total Products Sold
+* 👥 Customer Analysis
+
+ 📈 Dashboard Analysis
+
+ 1. Product Category Analysis
+
+Analyzes Revenue and Profit by Product Category to understand which categories contribute the most to overall business performance.
+
+ 2. Sub-Category Analysis
+
+Compares Revenue and Profit across different product sub-categories to identify high-performing and low-performing product segments.
+
+ 3. Customer Gender Analysis
+
+Analyzes Revenue and Profit by Customer Gender to understand purchasing patterns and customer contribution.
+
+ 4. Top 5 Products
+
+Identifies the Top 5 Products based on:
+
+* Revenue
+* Profit
+
+This helps highlight the products that contribute significantly to overall business performance.
+
+ 5. State-wise Analysis
+
+Interactive maps are used to analyze:
+
+* Revenue by State
+* Profit by State
+
+This helps identify geographical areas with stronger sales and profitability.
+
+### 6. Time-Based Analysis
+
+The dashboard provides a trend analysis of **Revenue and Profit over time**, allowing users to understand changes in business performance across:
+
+* Year
+* Quarter
+* Month
+
+ 🎯 Project Objectives
+
+The main objectives of this project are to:
+
+* Analyze overall bike sales performance
+* Track revenue and profitability
+* Identify high-performing product categories
+* Analyze product sub-category performance
+* Understand customer purchasing patterns
+* Identify top-performing products
+* Compare sales performance across different states
+* Analyze revenue and profit trends over time
+
+ 🔄 Data Preparation
+
+The dataset was prepared and transformed using **Power Query** before building the dashboard.
+
+The data preparation process included:
+
+* Data cleaning
+* Data transformation
+* Checking data types
+* Preparing fields for analysis
+* Creating the required data model
+* Preparing data for Power BI visualizations
+
+ 📊 Dashboard Features
+
+The dashboard includes:
+
+* KPI Cards
+* Pie/Donut Charts
+* Bar Charts
+* Column Charts
+* Line & Column Combination Charts
+* Interactive Maps
+* Time-Series Analysis
+* Top 5 Product Analysis
+* Interactive navigation/bookmarks
+
+ 🎓 Skills Demonstrated
+
+This project demonstrates practical skills in:
+
+* Power BI
+* Power Query
+* DAX
+* Data Cleaning
+* Data Transformation
+* Data Modeling
+* Data Visualization
+* Business Intelligence
+* Exploratory Data Analysis
+* Dashboard Development
+
 
  👨‍💻 Author
 
