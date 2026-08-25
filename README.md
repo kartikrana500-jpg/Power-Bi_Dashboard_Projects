@@ -507,6 +507,133 @@ This project demonstrates practical skills in:
 * Business Intelligence
 * Dashboard Development
 
+Project-5:
+
+🏏 Virat Kohli Performance Dashboard – Excel Analysis
+
+📌 Project Overview
+
+The Virat Kohli Performance Dashboard is an interactive analytics project developed to analyze Virat Kohli's international batting performance across all major match formats (ODI, Test, and T20). 
+
+The project transforms match-by-match scoring data into structured visualizations to evaluate career progression, run distribution, scoring consistency, opposition performance, and milestone achievements over time.
+
+🛠️ Tools & Technologies
+
+* Microsoft Excel
+* Data Analysis
+* Data Cleansing
+* Pivot Tables & Pivot Charts
+* Time-Series Analysis
+
+📊 Key KPIs
+
+The dashboard provides an overview of key batting metrics from August 2008 to July 2022, including:
+
+* 🏏 Total Runs: 23,709
+* 🏟️ Total Innings Tracked: 516
+* 💯 Total Centuries (100s): 70
+* 💥 Total Fifties (50s): 122
+* ⏱️ Timeframe Covered: 2008 – 2022
+
+🎛️ Interactive Filters
+
+The dataset and dashboard include interactive dynamic slicers for:
+
+* 📅 Year & Quarter
+* 🏏 Match Format (ODI, Test, T20)
+* 🥊 Opponent Team
+* 🏟️ Ground / Venue
+
+These filters allow users to slice performance metrics across specific opponents, time periods, and formats.
+
+📈 Dashboard Analysis
+
+1. Cumulative Run Growth Analysis
+
+A line chart tracks Virat Kohli's total run accumulation across 516 matches.
+
+This helps visualize scoring consistency, career acceleration periods, and total run milestones over time.
+
+2. Performance by Opposition
+
+A bar chart analyzes total runs scored and milestones achieved against different national teams (e.g., Australia, Sri Lanka, England).
+
+This helps identify top-performing matchups and scoring volume against specific opponents.
+
+3. Format-Wise Breakdown
+
+A segment analysis evaluates run distribution and centuries across Test, ODI, and T20 international formats.
+
+This compares scoring performance and adaptability across different game formats.
+
+4. Milestone & Innings Distribution
+
+A visual analysis categorizes innings by scoring brackets (30s, 50s, and 100s).
+
+This provides insight into conversion rates, half-centuries, and century-scoring frequency.
+
+5. Venue & Ground Analysis
+
+A location chart analyzes runs scored across various international cricket grounds.
+
+This helps determine performance patterns in home versus away conditions.
+
+🎯 Project Objectives
+
+The main objectives of this project are to:
+
+* Analyze Virat Kohli's international career progression from 2008 to 2022
+* Track cumulative run growth across 516 innings
+* Analyze performance distribution across Test, ODI, and T20 formats
+* Identify top-performing grounds and scoring venues
+* Evaluate performance metrics against specific international opponents
+* Measure century and half-century conversion rates over time
+* Enable time-based performance analysis across years and quarters
+
+🔄 Data Preparation
+
+The raw match data was cleaned and structured prior to building visualizations.
+
+The data preparation process included:
+
+* Data cleaning and removing incomplete records
+* Standardizing date formats and chronological match indexing
+* Categorizing innings into milestone flags (centuries, fifties, thirties)
+* Structuring time dimensions (Year, Quarter, Month)
+* Aggregating cumulative career run totals
+* Preparing the dataset for Pivot Table and dashboard modeling
+
+📊 Dashboard Features
+
+The dashboard includes:
+
+* KPI Cards
+* Line Charts
+* Bar Charts
+* Interactive Slicers
+* Format-Wise Analysis
+* Opponent-Wise Breakdown
+* Ground & Venue Analysis
+* Milestone (100s/50s) Analysis
+* Time-Series & Trend Analysis
+* Filterable Views by Year and Format
+
+🎓 Skills Demonstrated
+
+This project demonstrates practical skills in:
+
+* Microsoft Excel
+* Data Cleaning & Preprocessing
+* Time-Series Data Modeling
+* Data Visualization
+* Sports Analytics
+* Exploratory Data Analysis (EDA)
+* Excel Dashboard Development
+
+
+Project-6:
+
+
 
  👨‍💻 Author
 
