@@ -633,6 +633,201 @@ This project demonstrates practical skills in:
 
 Project-6:
 
+🛍️ Myntra Product Analysis Dashboard – Excel
+
+📌 Project Overview
+
+The Myntra Product Analysis Dashboard is an interactive Excel-based data analysis project developed to analyze Myntra’s men’s jeans product data, including brands, product prices, MRP, discounts, customer ratings, and number of customer ratings.
+
+The project transforms raw Myntra product data into meaningful Pivot Tables, charts, KPIs, and visualizations to understand product pricing, brand performance, discount patterns, and customer engagement.
+
+
+🛠️ Tools & Technologies
+
+* Microsoft Excel
+* Pivot Tables
+* Pivot Charts
+* Excel Formulas
+* Data Cleaning
+* Data Analysis
+* Data Visualization
+* Conditional Formatting
+
+
+📊 Key KPIs
+
+The dashboard provides important product-performance indicators including:
+
+💰 Average Product Price
+Analyzes the average selling price of Myntra products.
+
+⭐ Average Rating
+Shows the average customer rating across the products.
+
+🏷️ Average Discount
+Analyzes the average discount offered on products.
+
+💰 Maximum Product Price
+Identifies the highest-priced product in the dataset.
+
+🏷️ Total Products
+Shows the total number of products available for analysis.
+
+👥 Total Brands
+Identifies the number of different brands available in the dataset.
+
+
+📈 Dashboard Analysis
+
+1. Brand-wise Product Analysis
+
+The dashboard analyzes the number of products available across different brands.
+
+This helps identify:
+
+* Brands with the highest number of products
+* Most frequently listed brands
+* Product distribution across brands
+* Differences in brand presence on Myntra
+
+This analysis helps understand the product availability and market presence of different brands.
+
+
+2. Brand-wise Price Analysis
+
+The dashboard compares product prices across different brands.
+
+It helps identify:
+
+* Brands with higher average prices
+* Premium brands
+* Budget-friendly brands
+* Pricing differences between brands
+
+This provides insights into the pricing strategy of different brands.
+
+
+3. Product Price Analysis
+
+The project analyzes the selling price and MRP of Myntra products.
+
+This helps understand:
+
+* Average product price
+* Highest product price
+* Price distribution
+* Difference between MRP and selling price
+
+The analysis can be used to identify both budget and premium products.
+
+
+4. Discount Analysis
+
+The dashboard analyzes the discount percentage offered on different products.
+
+This helps identify:
+
+* Products with high discounts
+* Brands offering larger discounts
+* Average discount percentage
+* Discount patterns across products
+
+This provides insights into the promotional pricing strategies used by different brands.
+
+
+5. Customer Rating Analysis
+
+The project analyzes customer ratings for Myntra products.
+
+This helps identify:
+
+* Highly rated products
+* Products with lower ratings
+* Average product rating
+* Rating differences across brands
+
+This analysis provides an indication of customer satisfaction and product perception.
+
+
+6. Customer Engagement Analysis
+
+The dataset contains the Number of Ratings received by each product.
+
+This helps identify products that have:
+
+* High customer engagement
+* Large numbers of ratings
+* Low customer interaction
+* Greater customer interest
+
+Products with a higher number of ratings can indicate stronger customer engagement and popularity.
+
+
+7. Product Description Analysis
+
+The project analyzes different types of men’s jeans based on their product descriptions.
+
+Examples include:
+
+* Men Loose Fit Cotton Jeans
+* Men Slim Fit Jeans
+* Men Pure Cotton Jeans
+* Men Relaxed Fit Jeans
+* Men Anti Fit Jeans
+* Men Stretchable Jeans
+* Men Regular Fit Jeans
+
+This helps understand the variety of product styles available on Myntra.
+
+
+8. Brand vs Rating Analysis
+
+The dashboard compares brands based on their customer ratings.
+
+This helps identify:
+
+* Brands with higher average ratings
+* Brands with lower average ratings
+* Customer perception of different brands
+* Differences in product quality perception
+
+
+🎯 Project Objectives
+
+The main objectives of this project are to:
+
+* Analyze Myntra product data
+* Analyze product pricing
+* Compare MRP and selling prices
+* Analyze discount percentages
+* Compare different brands
+* Identify premium and budget products
+* Analyze customer ratings
+* Analyze number of customer ratings
+* Identify highly rated products
+* Understand brand-level pricing patterns
+* Analyze different product styles
+* Understand customer engagement
+* Generate meaningful business insights using Excel
+
+🔄 Data Preparation
+
+The dataset was prepared and transformed before performing the analysis.
+
+The data preparation process included:
+
+* Data cleaning
+* Removing unnecessary data
+* Checking missing values
+* Checking and correcting data types
+* Standardizing brand names
+* Preparing price and MRP fields
+* Preparing discount percentage fields
+* Preparing ratings fields
+* Preparing number-of-ratings fields
+* Creating Pivot Tables
+* Creating calculated summaries
+* Preparing data for visualization
 
 
  👨‍💻 Author
