@@ -374,6 +374,139 @@ This project demonstrates practical skills in:
 * Dashboard Development
 
 
+Project 4:
+
+ 🍽️ Zomato Restaurants Analysis – Power BI
+
+ 📌 Project Overview
+
+The Zomato Restaurants Analysis Dashboard is an interactive Power BI dashboard developed to analyze restaurant data, cuisines, ratings, locations, table booking availability, and online delivery services.
+
+The dashboard transforms restaurant data into interactive visualizations that help understand restaurant distribution, customer ratings, cuisine preferences, and available restaurant services.
+
+ 🛠️ Tools & Technologies
+
+* Microsoft Power BI
+* Power Query
+* DAX
+* Data Visualization
+* Data Analysis
+
+ 📊 Key KPIs
+
+The dashboard provides an overview of important restaurant metrics including:
+
+* 🍽️ Total Restaurants
+* 🍴 Total Cuisines
+* 🌍 Total Countries
+* 🏙️ Total Cities
+* ⭐ Ratings
+
+ 🎛️ Interactive Filters
+
+The dashboard includes interactive slicers for:
+
+* 📅 Year
+* 🌍 Country
+
+These filters allow users to explore restaurant information for different years and countries.
+
+ 📈 Dashboard Analysis
+
+1. Table Booking Analysis
+
+A donut chart analyzes restaurants based on table booking availability.
+
+This helps understand how many restaurants provide table booking facilities compared with those that do not.
+
+ 2. Restaurants by City
+
+A bar chart analyzes the number of restaurants across different cities.
+
+This helps identify cities with a higher concentration of restaurants.
+
+ 3. Restaurant Cuisine & Ratings Analysis
+
+A combination chart analyzes restaurants based on:
+
+* Number of cuisines
+* Restaurant ratings
+
+This helps compare restaurant offerings with their rating performance.
+
+ 4. Online Delivery Analysis
+
+A donut chart analyzes restaurants based on online delivery availability.
+
+This provides insight into how many restaurants offer online food delivery services.
+
+ 5. Restaurants by Cuisine
+
+A bar chart analyzes the number of restaurants across different cuisines.
+
+This helps identify the most common and popular cuisine categories within the dataset.
+
+ 🎯 Project Objectives
+
+The main objectives of this project are to:
+
+* Analyze the overall restaurant landscape
+* Identify the number of restaurants across cities
+* Analyze different cuisines
+* Understand restaurant rating patterns
+* Analyze table booking availability
+* Analyze online delivery availability
+* Compare restaurant distribution across countries
+* Explore restaurant data across different years
+
+ 🔄 Data Preparation
+
+The restaurant data was prepared and transformed before building the dashboard.
+
+The data preparation process included:
+
+* Data cleaning
+* Data transformation
+* Checking data types
+* Preparing restaurant and country information
+* Handling categorical data
+* Preparing fields for visualization
+* Creating the required Power BI data model
+
+ 📊 Dashboard Features
+
+The dashboard includes:
+
+* KPI Cards
+* Donut Charts
+* Bar Charts
+* Combination Chart
+* Interactive Slicers
+* Restaurant Analysis
+* Cuisine Analysis
+* City-wise Analysis
+* Rating Analysis
+* Table Booking Analysis
+* Online Delivery Analysis
+* Country-wise Filtering
+* Year-wise Filtering
+
+
+ 🎓 Skills Demonstrated
+
+This project demonstrates practical skills in:
+
+* Power BI
+* Power Query
+* DAX
+* Data Cleaning
+* Data Transformation
+* Data Modeling
+* Data Visualization
+* Exploratory Data Analysis
+* Business Intelligence
+* Dashboard Development
+
 
  👨‍💻 Author
 
