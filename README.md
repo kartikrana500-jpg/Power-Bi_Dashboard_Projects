@@ -242,6 +242,139 @@ This project demonstrates practical skills in:
 * Dashboard Development
 
 
+Project 3:
+
+ 🛒 E-Commerce Dashboard – Power BI
+
+ 📌 Project Overview
+
+The E-Commerce Dashboard is an interactive Power BI dashboard developed to analyze e-commerce order performance, revenue, profitability, customers, products, brands, shipping methods, and customer segments.
+
+The dashboard transforms raw e-commerce order data into interactive visualizations and meaningful business insights to help understand sales performance and customer behavior.
+
+ 🛠️ Tools & Technologies
+
+* Microsoft Power BI
+* Power Query
+* DAX
+* Data Visualization
+* Data Analysis
+
+ 📊 Key KPIs
+
+The dashboard provides important business performance indicators including:
+
+* 💰 Total Order Amount
+* 📈 Total Profit
+* 📊 Average Profit Margin
+* 🛒 Total Orders
+* 👥 Total Customers
+
+ 📈 Dashboard Analysis
+
+ 1. Revenue by Brand
+
+Analyzes Total Order Amount by Brand to identify brands that generate the highest revenue and compare their sales performance.
+
+ 2. Revenue by Shipping Method
+
+A pie chart is used to analyze Order Amount by Shipping Method, helping understand the contribution of different shipping methods to overall sales.
+
+### 3. Revenue Trend Over Time
+
+The dashboard provides a **time-based revenue analysis using the order date hierarchy.
+
+The trend can be analyzed across:
+
+* Year
+* Quarter
+* Month
+* Day
+
+This helps identify changes and patterns in e-commerce sales over time.
+
+ 4. Product Category Analysis
+
+Analyzes Order Amount and Profit Margin by Product Category to compare sales performance and profitability across different product categories.
+
+ 5. Customer Segment Analysis
+
+The dashboard analyzes different customer segments using metrics such as:
+
+* High-value orders
+* Premium customers
+* Premium segments
+
+This helps identify valuable customer groups and understand their contribution across different countries.
+
+ 6. Country-wise Customer Analysis
+
+The dashboard compares customer segments across different countries, providing insights into geographical customer behavior and the distribution of high-value and premium customers.
+
+ 🎯 Project Objectives
+
+The main objectives of this project are to:
+
+* Analyze overall e-commerce sales performance
+* Track revenue and profitability
+* Analyze profit margins
+* Compare brand performance
+* Understand shipping method contribution
+* Analyze product category performance
+* Identify high-value orders
+* Identify premium customers and customer segments
+* Analyze customer distribution by country
+* Understand revenue trends over time
+
+ 🔄 Data Preparation
+
+The dataset was prepared and transformed before creating the dashboard.
+
+The data preparation process included:
+
+* Data cleaning
+* Data transformation
+* Checking data types
+* Preparing fields for analysis
+* Creating calculated measures
+* Preparing the data model
+* Creating DAX calculations
+
+ 📊 Dashboard Features
+
+The dashboard includes:
+
+* KPI Cards
+* Bar Charts
+* Pie Chart
+* Line Chart
+* Combination Chart
+* 100% Stacked Bar Chart
+* Time-Series Analysis
+* Brand Analysis
+* Product Category Analysis
+* Shipping Method Analysis
+* Customer Segment Analysis
+* Country-wise Analysis
+
+ 🎓 Skills Demonstrated
+
+This project demonstrates practical skills in:
+
+* Power BI
+* Power Query
+* DAX
+* Data Cleaning
+* Data Transformation
+* Data Modeling
+* Data Visualization
+* Exploratory Data Analysis
+* Customer Segmentation
+* Business Intelligence
+* Dashboard Development
+
+
+
  👨‍💻 Author
 
   Kartik Rana
